@@ -283,7 +283,7 @@ ul {
 	position: absolute;
 	left: 15px;
 	content: '\f24d';
-	font-family: fontawesome;
+	font-family: "Font Awesome 5 Free";
 	display: inline-block;
 	transition: all .3s;
 }
